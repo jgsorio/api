@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "outDir": "build",
+    "strict": true,
+    "target": "ES2021"
+  }
+}
